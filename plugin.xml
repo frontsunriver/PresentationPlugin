@@ -28,7 +28,7 @@
     <description>Cordova Presentation API Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,presentation,presentation api,second screen,multi-screen,webscreens</keywords>
-    <repo>https://github.com/JSTop1Coder/PresentationPlugin.git</repo>
+    <repo>https://github.com/frontsunriver/PresentationPlugin.git</repo>
 
     <js-module src="www/PresentationPlugin.js" name="PresentationPlugin">
         <clobbers target="navigator.PresentationPlugin" />

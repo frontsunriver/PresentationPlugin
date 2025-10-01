@@ -12,6 +12,6 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "jstopcoder",
+  "author": "sunriver",
   "license": "ISC"
 }
